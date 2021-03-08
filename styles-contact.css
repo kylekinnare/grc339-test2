@@ -1,0 +1,153 @@
+/*This is my 377 FoCo Web Page Project using Eric Meyer's reset at the top of my page -- your CSS starts on line 56 */
+
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+/* ---------- This is the beginning of my 377 FoCo Web Page Project ------------ */
+
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+	background-image: url("images/clotheshanging.jpg");
+	background-size: cover;
+background-repeat: no-repeat;
+	 background-attachment: fixed;
+background-position: center;
+	
+}
+
+.center {
+    width: 600px;
+	padding: 2%;
+    margin: 100px auto;
+ 	background: rgba(192, 183, 243, 0.80); 
+	text-align: center;
+	border: 4px white;
+}
+
+   
+#logo {
+    margin-bottom: 16px;
+	border:
+	text-align: center;
+}
+
+h1 {
+	link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Fredoka+One&display=swap" rel="stylesheet">
+font-size: background-color: ;
+    margin: 0px auto 10px auto;
+   color: rgb(207, 22, 176);
+   border: double
+}
+
+p {
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
+	font-size: 1.2em;
+    line-height: 1.6;
+    color: #fff;
+}
+* {margin: 0; padding: 0;}
+
+nav {
+	font-family: 
+  margin: 50 px;
+  
+}
+
+ul {
+  overflow: auto;
+  list-style-type: none;
+}
+
+li {
+	display: inline; 
+  height: 25px;
+  margin-right: 0px;
+  border-right: 0px solid #aaa;
+  padding: 0 20px;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  text-decoration: none;
+  color: rgb(207, 22, 176);
+  font: 20 px/1 <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">, Verdana, sans-serif;
+  text-transform: uppercase;
+  -webkit-transition: all 0.5s ease;
+}
+
+li.active a {
+  font-weight: bold;
+  color: rgb(207, 22, 176);
+}
+	}
+	a{
+	color: rgb(235, 129, 212);
+	text-decoration: none; 
+	font-weight: bold;
+	}
+	a:hover{
+	color: black;
+	background: rgb(227, 189, 245); 
+	}
+    
+    
+
